@@ -1,0 +1,266 @@
+[
+ {
+  "attachments": 1,
+  "nr_of_developers": 4,
+  "developer_reputation": 0.0,
+  "bugfix_time": 225,
+  "dependencies": 2,
+  "bug_severity": 5
+ },
+ {
+  "attachments": 1,
+  "nr_of_developers": 5,
+  "developer_reputation": 0.0,
+  "bugfix_time": 65,
+  "dependencies": 4,
+  "bug_severity": 4
+ },
+ {
+  "attachments": 1,
+  "nr_of_developers": 8,
+  "developer_reputation": 0.0,
+  "bugfix_time": 42,
+  "dependencies": 3,
+  "bug_severity": 4
+ },
+ {
+  "attachments": 1,
+  "nr_of_developers": 5,
+  "developer_reputation": 0.0,
+  "bugfix_time": 48,
+  "dependencies": 2,
+  "bug_severity": 4
+ },
+ {
+  "attachments": 1,
+  "nr_of_developers": 6,
+  "developer_reputation": 0.0,
+  "bugfix_time": 62,
+  "dependencies": 3,
+  "bug_severity": 7
+ },
+ {
+  "attachments": 1,
+  "nr_of_developers": 5,
+  "developer_reputation": 0.0,
+  "bugfix_time": 4,
+  "dependencies": 3,
+  "bug_severity": 4
+ },
+ {
+  "attachments": 1,
+  "nr_of_developers": 5,
+  "developer_reputation": 0.0,
+  "bugfix_time": 460,
+  "dependencies": 2,
+  "bug_severity": 6
+ },
+ {
+  "attachments": 3,
+  "nr_of_developers": 4,
+  "developer_reputation": 0.0,
+  "bugfix_time": 74,
+  "dependencies": 2,
+  "bug_severity": 5
+ },
+ {
+  "attachments": 1,
+  "nr_of_developers": 2,
+  "developer_reputation": 0.125,
+  "bugfix_time": 0,
+  "dependencies": 2,
+  "bug_severity": 4
+ },
+ {
+  "attachments": 1,
+  "nr_of_developers": 3,
+  "developer_reputation": 0.0,
+  "bugfix_time": 63,
+  "dependencies": 2,
+  "bug_severity": 6
+ },
+ {
+  "attachments": 1,
+  "nr_of_developers": 4,
+  "developer_reputation": 0.0,
+  "bugfix_time": 2,
+  "dependencies": 2,
+  "bug_severity": 4
+ },
+ {
+  "attachments": 1,
+  "nr_of_developers": 3,
+  "developer_reputation": 0.0,
+  "bugfix_time": 298,
+  "dependencies": 2,
+  "bug_severity": 4
+ },
+ {
+  "attachments": 1,
+  "nr_of_developers": 7,
+  "developer_reputation": 0.0,
+  "bugfix_time": 1005,
+  "dependencies": 4,
+  "bug_severity": 7
+ },
+ {
+  "attachments": 1,
+  "nr_of_developers": 6,
+  "developer_reputation": 0.0,
+  "bugfix_time": 55,
+  "dependencies": 2,
+  "bug_severity": 4
+ },
+ {
+  "attachments": 1,
+  "nr_of_developers": 2,
+  "developer_reputation": 0.0,
+  "bugfix_time": 1,
+  "dependencies": 2,
+  "bug_severity": 4
+ },
+ {
+  "attachments": 4,
+  "nr_of_developers": 7,
+  "developer_reputation": 0.0,
+  "bugfix_time": 342,
+  "dependencies": 2,
+  "bug_severity": 4
+ },
+ {
+  "attachments": 1,
+  "nr_of_developers": 4,
+  "developer_reputation": 0.0,
+  "bugfix_time": 1,
+  "dependencies": 2,
+  "bug_severity": 6
+ },
+ {
+  "attachments": 1,
+  "nr_of_developers": 5,
+  "developer_reputation": 0.0,
+  "bugfix_time": 180,
+  "dependencies": 3,
+  "bug_severity": 4
+ },
+ {
+  "attachments": 1,
+  "nr_of_developers": 3,
+  "developer_reputation": 0.0,
+  "bugfix_time": 3,
+  "dependencies": 3,
+  "bug_severity": 4
+ },
+ {
+  "attachments": 1,
+  "nr_of_developers": 4,
+  "developer_reputation": 0.0,
+  "bugfix_time": 86,
+  "dependencies": 2,
+  "bug_severity": 4
+ },
+ {
+  "attachments": 1,
+  "nr_of_developers": 3,
+  "developer_reputation": 0.0,
+  "bugfix_time": 299,
+  "dependencies": 2,
+  "bug_severity": 4
+ },
+ {
+  "attachments": 1,
+  "nr_of_developers": 5,
+  "developer_reputation": 0.08695652173913043,
+  "bugfix_time": 445,
+  "dependencies": 2,
+  "bug_severity": 4
+ },
+ {
+  "attachments": 1,
+  "nr_of_developers": 4,
+  "developer_reputation": 0.0,
+  "bugfix_time": 1291,
+  "dependencies": 2,
+  "bug_severity": 4
+ },
+ {
+  "attachments": 1,
+  "nr_of_developers": 5,
+  "developer_reputation": 0.14285714285714285,
+  "bugfix_time": 23,
+  "dependencies": 3,
+  "bug_severity": 3
+ },
+ {
+  "attachments": 1,
+  "nr_of_developers": 4,
+  "developer_reputation": 0.03225806451612903,
+  "bugfix_time": 29,
+  "dependencies": 2,
+  "bug_severity": 4
+ },
+ {
+  "attachments": 3,
+  "nr_of_developers": 3,
+  "developer_reputation": 0.0,
+  "bugfix_time": 857,
+  "dependencies": 2,
+  "bug_severity": 4
+ },
+ {
+  "attachments": 1,
+  "nr_of_developers": 4,
+  "developer_reputation": 0.0,
+  "bugfix_time": 5,
+  "dependencies": 2,
+  "bug_severity": 4
+ },
+ {
+  "attachments": 1,
+  "nr_of_developers": 5,
+  "developer_reputation": 0.14285714285714285,
+  "bugfix_time": 34,
+  "dependencies": 2,
+  "bug_severity": 4
+ },
+ {
+  "attachments": 1,
+  "nr_of_developers": 3,
+  "developer_reputation": 0.0,
+  "bugfix_time": 0,
+  "dependencies": 2,
+  "bug_severity": 3
+ },
+ {
+  "attachments": 1,
+  "nr_of_developers": 5,
+  "developer_reputation": 0.0,
+  "bugfix_time": 3003,
+  "dependencies": 3,
+  "bug_severity": 5
+ },
+ {
+  "attachments": 1,
+  "nr_of_developers": 4,
+  "developer_reputation": 0.0,
+  "bugfix_time": 421,
+  "dependencies": 2,
+  "bug_severity": 4
+ },
+ {
+  "attachments": 1,
+  "nr_of_developers": 4,
+  "developer_reputation": 0.0,
+  "bugfix_time": 207,
+  "dependencies": 2,
+  "bug_severity": 4
+ },
+ {
+  "attachments": 1,
+  "nr_of_developers": 3,
+  "developer_reputation": 0.0,
+  "bugfix_time": 276,
+  "dependencies": 2,
+  "bug_severity": 4
+ }
+]

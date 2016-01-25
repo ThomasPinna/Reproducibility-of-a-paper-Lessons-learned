@@ -1,0 +1,106 @@
+[
+ {
+  "developer_reputation": 0.0,
+  "bug_severity": 3,
+  "bugfix_time": 224,
+  "attachments": 1,
+  "dependencies": 2,
+  "nr_of_developers": 3
+ },
+ {
+  "developer_reputation": 0.0,
+  "bug_severity": 4,
+  "bugfix_time": 20,
+  "attachments": 2,
+  "dependencies": 2,
+  "nr_of_developers": 4
+ },
+ {
+  "developer_reputation": 0.0,
+  "bug_severity": null,
+  "bugfix_time": null,
+  "attachments": 0,
+  "dependencies": 0,
+  "nr_of_developers": 3
+ },
+ {
+  "developer_reputation": 0.0,
+  "bug_severity": null,
+  "bugfix_time": null,
+  "attachments": 0,
+  "dependencies": 0,
+  "nr_of_developers": 2
+ },
+ {
+  "developer_reputation": 0.0,
+  "bug_severity": null,
+  "bugfix_time": null,
+  "attachments": 0,
+  "dependencies": 0,
+  "nr_of_developers": 2
+ },
+ {
+  "developer_reputation": 0.0,
+  "bug_severity": null,
+  "bugfix_time": null,
+  "attachments": 0,
+  "dependencies": 0,
+  "nr_of_developers": 5
+ },
+ {
+  "developer_reputation": 0.0,
+  "bug_severity": 4,
+  "bugfix_time": 0,
+  "attachments": 1,
+  "dependencies": 2,
+  "nr_of_developers": 4
+ },
+ {
+  "developer_reputation": 0.0,
+  "bug_severity": 4,
+  "bugfix_time": 3,
+  "attachments": 1,
+  "dependencies": 2,
+  "nr_of_developers": 3
+ },
+ {
+  "developer_reputation": 0.0,
+  "bug_severity": 3,
+  "bugfix_time": 5,
+  "attachments": 1,
+  "dependencies": 2,
+  "nr_of_developers": 4
+ },
+ {
+  "developer_reputation": 0.0,
+  "bug_severity": 4,
+  "bugfix_time": 0,
+  "attachments": 1,
+  "dependencies": 2,
+  "nr_of_developers": 3
+ },
+ {
+  "developer_reputation": 0.0,
+  "bug_severity": 4,
+  "bugfix_time": 20,
+  "attachments": 1,
+  "dependencies": 2,
+  "nr_of_developers": 3
+ },
+ {
+  "developer_reputation": 0.2608695652173913,
+  "bug_severity": null,
+  "bugfix_time": null,
+  "attachments": 0,
+  "dependencies": 0,
+  "nr_of_developers": 6
+ },
+ {
+  "developer_reputation": 0.058823529411764705,
+  "bug_severity": null,
+  "bugfix_time": null,
+  "attachments": 0,
+  "dependencies": 0,
+  "nr_of_developers": 3
+ }
+]

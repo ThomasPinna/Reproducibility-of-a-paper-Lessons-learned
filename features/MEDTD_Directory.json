@@ -1,0 +1,18 @@
+[
+ {
+  "attachments": 1,
+  "nr_of_developers": 6,
+  "developer_reputation": 0.0,
+  "bugfix_time": 30,
+  "dependencies": 3,
+  "bug_severity": 4
+ },
+ {
+  "attachments": 1,
+  "nr_of_developers": 4,
+  "developer_reputation": 0.2208668569945497,
+  "bugfix_time": 149,
+  "dependencies": 2,
+  "bug_severity": 4
+ }
+]

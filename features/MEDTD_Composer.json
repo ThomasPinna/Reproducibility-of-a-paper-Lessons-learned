@@ -1,0 +1,10 @@
+[
+ {
+  "attachments": 1,
+  "nr_of_developers": 2,
+  "developer_reputation": 0.25,
+  "bugfix_time": 13,
+  "dependencies": 3,
+  "bug_severity": 4
+ }
+]

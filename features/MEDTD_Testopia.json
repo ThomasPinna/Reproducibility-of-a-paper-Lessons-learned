@@ -1,0 +1,34 @@
+[
+ {
+  "attachments": 1,
+  "nr_of_developers": 12,
+  "developer_reputation": 0.32954545454545453,
+  "bugfix_time": 56,
+  "dependencies": 3,
+  "bug_severity": 4
+ },
+ {
+  "attachments": 1,
+  "nr_of_developers": 6,
+  "developer_reputation": 0.0,
+  "bugfix_time": 689,
+  "dependencies": 2,
+  "bug_severity": 5
+ },
+ {
+  "attachments": 1,
+  "nr_of_developers": 3,
+  "developer_reputation": 0.5,
+  "bugfix_time": 93,
+  "dependencies": 2,
+  "bug_severity": 3
+ },
+ {
+  "attachments": 2,
+  "nr_of_developers": 6,
+  "developer_reputation": 0.0,
+  "bugfix_time": 156,
+  "dependencies": 4,
+  "bug_severity": 5
+ }
+]
